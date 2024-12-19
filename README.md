@@ -21,5 +21,5 @@ Drac interpreter for a C-like programming language.
 go run main.go
 ```
 
-Project made while learning from the fantastic [https://interpreterbook.com/](https://interpreterbook.com/)!
+Project made while learning from the fantastic [Writing An Interpreter In Go](https://interpreterbook.com/)!
 All credits to author.
